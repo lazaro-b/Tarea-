@@ -1,0 +1,9 @@
+@startuml Combertir temperatura de C a F
+class Temperatura{
+-gradosC: float
++Temperatura(c: float)
++getGradosC():float
++getGradosF(): float
++getGradosF(C*9/5)+32
+ }
+@enduml
