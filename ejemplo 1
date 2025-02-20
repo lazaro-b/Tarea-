@@ -1,0 +1,38 @@
+Circunferencia
+
+-m_centro: Punto2D
+
+-m_radio: double
+
++Circunferencia
+
++Circunferencial_radio: double, x:
+
+double, y double)
+
++Circunferencia radio: double, centro: Punto2D)
+
++getCentro(): Punto2D
+
++set Centro_centro Punto2D): void
+
++getRadio(): double
+
++set Radio_radio: double): void
+Punto2D
+
+-m_coordX: double
+
+-m_coordY: double
+
++Punto2D(0
+
++Punto2D(x: double, y: double)
+
++getCoordX(): double
+
++set CoordX(_coordX: double): void
+
++getCoordY(): double
+
++set CoordY(_coordY: double): void
